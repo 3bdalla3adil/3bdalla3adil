@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @3bdalla3adil
+- 👀 I’m interested in all electronic related stuff 
+- 🌱 I’m currently learning flutter mobile development framework
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me at :
+- Gmail    : 3bdalla995@gmail.com
+- whatsapp : +249114648721
+- telegram : knuck_knuck
+- twitter  : @jungoz2013
+- facebook : jungoz@live.com
+
