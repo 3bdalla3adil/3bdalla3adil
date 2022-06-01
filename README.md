@@ -5,7 +5,7 @@
 - 📫 How to reach me at :
 - Gmail    : 3bdalla995@gmail.com
 - whatsapp : +249114648721
-- telegram : knuck_knuck
+- telegram : abdalla995
 - twitter  : @jungoz2013
 - facebook : jungoz@live.com
 
