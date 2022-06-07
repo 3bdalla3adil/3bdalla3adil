@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3bdalla3adil
 - 👀 I’m interested in all electronics and related stuff 
-- 🌱 I’m currently learning android mobile development .
+- 🌱 I’m currently learning business development .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
 - Gmail    : 3bdalla995@gmail.com
