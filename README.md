@@ -2,7 +2,7 @@
 - 👀 I’m interested in all electronics and related stuff 
 - 🌱 I’m currently learning android mobile development .
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at :
+- 📫 How to reach me :
 - Gmail    : 3bdalla995@gmail.com
 - whatsapp : +249114648721
 - telegram : abdalla995
