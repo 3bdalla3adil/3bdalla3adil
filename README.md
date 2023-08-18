@@ -12,7 +12,7 @@
 - 📫 How to reach me :
 - Gmail    : 3bdalla995@gmail.com
 - whatsapp : +249114648721
-- mobile   : +97466819376 
+- mobile   : +97433416862 
 - telegram : @3bdalloz
 - facebook : facebook.com/abdalla.a.hassan5
 
