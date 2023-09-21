@@ -4,7 +4,7 @@
 ### ______________________________________________________________
 - 👋 Hi, I’m abdulla bashir.
 - A sudanese software developer with more than 5 years of experience.
-- 👀 I’m interested in all electronics ,CLI environment ,GNU/Linux and related stuff .
+- 👀 I’m an electronics passionate, CLI environment, GNU/Linux and related stuff .
 - 🌱 I have earned an AWS Cloud Practitioner Certificate.
 - And i’m currently learning AWS solution Architect.
 - 💞️ I know how to make progress,one day will be cybersecurity Professional,
