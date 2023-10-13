@@ -10,10 +10,9 @@
 - 💞️ I know how to make progress,one day will be cybersecurity Professional,
 - I spend time gaining knowledge.
 - 📫 How to reach me :
--_Gmail     : 3bdalla995@gmail.com_
--_Whatsapp  : +974 71203694_
--_Mobile    : +974 71203694_
--_Mobile2   : +974 33416862_
--_Telegram  : @3bdalloz_
--_Facebook  : facebook.com/abdalla.a.hassan5_
-
+<div>-_Gmail     : 3bdalla995@gmail.com_</div>
+<div>-_Whatsapp  : +974 71203694_</div>
+<div>-_Mobile    : +974 71203694_</div>
+<div>-_Mobile2   : +974 33416862_</div>
+<div>-_Telegram  : @3bdalloz_</div>
+<div>-_Facebook  : facebook.com/abdalla.a.hassan5_</div>
