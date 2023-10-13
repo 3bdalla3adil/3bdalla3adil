@@ -15,4 +15,4 @@
 - _Mobile    : +974 71203694_
 - _Mobile2   : +974 33416862_
 - _Telegram  : @3bdalloz_
-- _Facebook  : facebook.com/abdalla.a.hassan5_
+- _Twitter   : @3bdalloz_
