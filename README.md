@@ -1,7 +1,7 @@
-# Personal Info,,
-<h1>- Linux Addict -</h1>
-<h2>- Python Professional -</h2>
-<strong>______________________________________________________________</strong>
+<h1> Personal Info,,</h1>
+<h2>- Linux Addict -</h2><br>
+<h2>- Python Professional -</h2><br>
+<strong>______________________________________________________________</strong><br>
 - 👋 Hi, I’m Abdulla Bashir.
 - A sudanese software developer with more than 5 years of experience.
 - 👀 I’m an electronics passionate, CLI environment, GNU/Linux and related stuff.
