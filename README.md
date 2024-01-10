@@ -15,10 +15,10 @@
   <summary>
     <a href="#">- 📫 How to reach me :</a>
   </summary>
-- _Gmail     : 3bdalla995@gmail.com_
-- _Whatsapp  : +974 71203694_
-- _Mobile    : +974 71203694_
-- _Telegram  : @abdalloz_
-- _Twitter   : @3bdalloz_
+- _Gmail     : 3bdalla995@gmail.com_ <br>
+- _Whatsapp  : +974 71203694_ <br>
+- _Mobile    : +974 71203694_ <br>
+- _Telegram  : @abdalloz_ <br>
+- _Twitter   : @3bdalloz_ <br>
 
 </details>
