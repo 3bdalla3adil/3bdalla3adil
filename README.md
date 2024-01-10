@@ -9,10 +9,16 @@
 - And i’m currently learning <strong>Cyber Incident Response</strong>.
 - 💞️ I know how to make progress,one day will be <strong>cybersecurity Professional</strong>,
 - I Like to spend time gaining knowledge.
-- 📫 How to reach me :
+
+
+<details>
+  <summary>
+    <a href="#">- 📫 How to reach me :</a>
+  </summary>
 - _Gmail     : 3bdalla995@gmail.com_
 - _Whatsapp  : +974 71203694_
 - _Mobile    : +974 71203694_
-- _Mobile2   : +974 33416862_
-- _Telegram  : @3bdalloz_
+- _Telegram  : @abdalloz_
 - _Twitter   : @3bdalloz_
+
+</details>
