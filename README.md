@@ -1,7 +1,8 @@
 <h1> Personal Info,,</h1>
+<hr width="25">
 <h2>- Python Developer and Linux Addict -</h2>
 <h2>- python based Application Professional -</h2><br>
-<strong>______________________________________________________________</strong><br>
+<hr>
 - <p>👋 Hi, I’m Abdulla Bashir.</p>
 - <p>A sudanese software developer with more than 5 years of experience.</p>
 - <p>👀 I’m an electronics passionate, CLI environment, GNU/Linux and related stuff.</p>
@@ -14,12 +15,12 @@
 
 <details id="contact">
   <summary>
-    <a href="#contact">- 📫 How to reach me :</a>
+    <a href="#contact"> 📫 How to reach me :</a>
   </summary>
-- _Gmail     : 3bdalla995@gmail.com_ <br>
-- _Whatsapp  : +974 71203694_ <br>
-- _Mobile    : +974 71203694_ <br>
-- _Telegram  : @abdalloz_ <br>
-- _Twitter   : @3bdalloz_ <br>
+  Gmail     : 3bdalla995@gmail.com <br>
+  Whatsapp  : +974 71203694 <br>
+  Mobile    : +974 71203694 <br>
+  Telegram  : @abdalloz <br>
+  Twitter   : @3bdalloz <br>
 
 </details>
