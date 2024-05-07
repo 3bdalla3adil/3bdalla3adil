@@ -4,7 +4,7 @@
 <h2>- python based Application Professional -</h2><br>
 <hr>
 - <p>👋 Hi, I’m Abdulla Bashir.</p>
-- <p>A sudanese software developer with more than 5 years of experience.</p>
+- <p>A sudanese software developer with more than 3 years of experience.</p>
 - <p>👀 I’m an electronics passionate, CLI environment, GNU/Linux and related stuff.</p>
 - <p>🌱 I have earned Many certificates from Coursera Such As <strong>Learning Linux for LFCA Certificate</strong>.
 </p>
