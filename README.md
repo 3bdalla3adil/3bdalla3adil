@@ -1,5 +1,5 @@
 <h1> Personal Info,,</h1>
-<hr width="25">
+<hr>
 <h2>- Python Developer and Linux Addict -</h2>
 <h2>- python based Application Professional -</h2><br>
 <hr>
