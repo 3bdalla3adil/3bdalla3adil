@@ -5,12 +5,12 @@
 
 - <p>👋 Hi, I’m Abdulla Bashir.</p>
 <hr>
-- <p>A sudanese software developer with more than 3 years of experience.</p>
+- <p>A software developer with more than 3 years of experience.</p>
 - <p>👀 I’m an electronics passionate, CLI environment, GNU/Linux and related stuff.</p>
 - <p>🌱 I have earned Many certificates from Coursera Such As <strong>Learning Linux for LFCA Certificate</strong>.
 </p>
 - <p>And i’m currently learning <strong>Cyber Security</strong>.</p>
-- <p>💞️ I know how to make progress,I'm working toward being a <strong>cybersecurity Professional</strong>,
+- <p>💞️ I know how to make progress,I'm working toward being a <strong>Cybersecurity Professional</strong>,
 </p>
 - <p>I Like to spend time gaining knowledge.</p>
 
