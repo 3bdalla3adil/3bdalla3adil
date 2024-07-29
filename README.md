@@ -9,9 +9,9 @@
 - <p>👀 I’m an electronics passionate, CLI environment, GNU/Linux and related stuff.</p>
 - <p>🌱 I have earned Many certificates from Coursera Such As <strong>Learning Linux for LFCA Certificate</strong>.
 </p>
-- <p>And i’m currently learning <strong>Cyber Security</strong>.</p>
+<!-- - <p>And i’m currently learning <strong>Cyber Security</strong>.</p>
 - <p>💞️ I know how to make progress,I'm working toward being a <strong>Cybersecurity Professional</strong>,
-</p>
+</p> -->
 - <p>I Like to spend time gaining knowledge.</p>
 
 <details id="contact">
