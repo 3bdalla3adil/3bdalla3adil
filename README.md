@@ -1,7 +1,9 @@
 <h1> Personal Info,,</h1>
 
+<h2>- Digital Transformation Professional VIA Implementing Odoo ERP System and Cutting Edge Technologies for DEVOPS Practices </h2>
+
 <h2>- Python Developer and Linux Addict -</h2>
-<h2>- python based Application Professional -</h2><br>
+<h2>- python based Application Professional  -</h2><br>
 
 - <p>👋 Hi, I’m Abdulla Bashir.</p>
 <hr>
