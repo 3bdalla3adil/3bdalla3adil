@@ -1,6 +1,6 @@
 <h1> Personal Info,,</h1>
 
-<h2>- Digital Transformation Professional Implementing Odoo ERP System and Cutting Edge Technologies for DEVOPS Practices </h2>
+<h2>- Digital Transformation Professional in Implementing Odoo ERP System and Cutting Edge Technologies for DEVOPS Practices </h2>
 
 <h2>- Python Developer and Linux Addict -</h2>
 <h2>- python based Application Professional  -</h2><br>
