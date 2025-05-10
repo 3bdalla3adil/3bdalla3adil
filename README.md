@@ -7,7 +7,7 @@
 
 - <p>👋 Hi, I’m Abdulla Bashir.</p>
 <hr>
-- <p>A software developer with more than 3 years of experience.</p>
+- <p>A IT developer with more than 3 years of experience.</p>
 - <p>👀 I’m an electronics passionate, CLI environment, GNU/Linux and related stuff.</p>
 - <p>🌱 I have earned Many certificates from Coursera Such As <strong>Learning Linux for LFCA Certificate</strong>.
 </p>
