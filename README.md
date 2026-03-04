@@ -16,9 +16,9 @@
 </p> -->
 - <p>I Like to spend time gaining knowledge.</p>
 
-<details id="contact">
 
-### :man_technologist:  Hey!  I'm (https://3bdalla3adil.github.io/), a SW Engineer from SUDAN.
+
+### :man_technologist:  Hey!  my Website (https://3bdalla3adil.github.io/)
 
 ### :zap: Languages I have used
 ![C/C++](https://img.shields.io/badge/-C/C++-000000?style=flat&logo=c)
@@ -51,13 +51,13 @@
 
 ### :eyes: Visitors Count
 ![visitors-count](https://visitor-badge.laobi.icu/badge?page_id=3bdalla3adil.readme)
-  <summary>
-    <a href="#contact"> 📫 How to reach me :</a>
-  </summary>
-  Gmail     : 3bdalla995@gmail.com <br>
-  Whatsapp  : +974 71203694 <br>
-  Mobile    : +974 71203694 <br>
-  Telegram  : @abdalloz <br>
-  Twitter   : @3bdalloz <br>
-
+  <details id="contact">
+    <summary>
+      <a href="#contact"> 📫 How to reach me :</a>
+    </summary>
+    Gmail     : 3bdalla995@gmail.com <br>
+    Whatsapp  : +974 71203694 <br>
+    Mobile    : +974 71203694 <br>
+    Telegram  : @abdalloz <br>
+    Twitter   : @3bdalloz <br>
 </details>
