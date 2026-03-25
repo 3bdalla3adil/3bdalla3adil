@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/3bdalloz" target="blank"><img src="https://img.shields.io/twitter/follow/3bdalloz?logo=twitter&style=for-the-badge" alt="3bdalloz" /></a> </p>
 
-- 🔭 I'm currently working on **Odoo Frontend**
+- 🔭 I'm currently working on **Odoo Development**
 
 - 🌱 I'm currently learning **Cybersecurity **
 
