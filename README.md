@@ -1,3 +1,53 @@
+# Hi 👋, I'm Abdulla Bashir 
+
+### Problem Solver
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3bdalla3adil&label=Profile views&color=0e75b6&style=flat" alt="3bdalla3adil" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bdalla3adil" alt="3bdalla3adil" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/3bdalloz" target="blank"><img src="https://img.shields.io/twitter/follow/3bdalloz?logo=twitter&style=for-the-badge" alt="3bdalloz" /></a> </p>
+
+- 🔭 I'm currently working on **Django reactjs**
+
+- 🌱 I'm currently learning **Cybersecurity **
+
+- 👯 I'm looking to collaborate on **ERPnext**
+
+- 💬 Ask me about **Odoo, Python, API integration **
+
+- 📫 How to reach me **3bdalla995@gmail.com**
+
+- 👨‍💻 All of my projects are available at **[https://3bdalla3adil.github.io](https://3bdalla3adil.github.io)**
+
+- 📝 I regularly write articles on **[https://3bdalla3adil.github.io/](https://3bdalla3adil.github.io/)**
+
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1BIh25OGs3Y75UxH9BNPcF4dI_l9KR-px/view?usp=drivesdk](https://drive.google.com/file/d/1BIh25OGs3Y75UxH9BNPcF4dI_l9KR-px/view?usp=drivesdk)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/3bdalla3adil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="3bdalla3adil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdulla-bashir-2a4311169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulla-bashir-2a4311169" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19533843/abdulla-bashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19533843/abdulla-bashir" height="30" width="40" /></a>
+<a href="https://fb.com/abdalla.a.hassan.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdalla.a.hassan.5" height="30" width="40" /></a>
+<a href="https://instagram.com/3bdalloz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3bdalloz" height="30" width="40" /></a>
+<a href="https://twitter.com/3bdalloz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3bdalloz" height="30" width="40" /></a>
+<a href="https://youtube.com/AbdullaBashir-u4y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AbdullaBashir-u4y" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3bdalla3adil&show_icons=true&locale=en&layout=compact" alt="3bdalla3adil" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3bdalla3adil&show_icons=true&locale=en" alt="3bdalla3adil" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3bdalla3adil&" alt="3bdalla3adil" /></p>
+
+
+
+
+
 <h1> Personal Info,,</h1>
 
 <h2>- Digital Transformation Professional in Implementing Odoo ERP System and Cutting Edge Technologies for DEVOPS Practices </h2>
