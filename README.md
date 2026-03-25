@@ -8,19 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/3bdalloz" target="blank"><img src="https://img.shields.io/twitter/follow/3bdalloz?logo=twitter&style=for-the-badge" alt="3bdalloz" /></a> </p>
 
-- 🔭 I'm currently working on **Django reactjs**
+- 🔭 I'm currently working on **Odoo Frontend**
 
 - 🌱 I'm currently learning **Cybersecurity **
 
-- 👯 I'm looking to collaborate on **ERPnext**
+- 👯 I'm looking to collaborate on **ERPnext oDoo**
 
 - 💬 Ask me about **Odoo, Python, API integration **
 
 - 📫 How to reach me **3bdalla995@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://3bdalla3adil.github.io](https://3bdalla3adil.github.io)**
-
-- 📝 I regularly write articles on **[https://3bdalla3adil.github.io/](https://3bdalla3adil.github.io/)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1BIh25OGs3Y75UxH9BNPcF4dI_l9KR-px/view?usp=drivesdk](https://drive.google.com/file/d/1BIh25OGs3Y75UxH9BNPcF4dI_l9KR-px/view?usp=drivesdk)**
 
