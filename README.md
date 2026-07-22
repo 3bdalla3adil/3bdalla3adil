@@ -105,7 +105,8 @@
     </summary>
     Gmail     : 3bdalla995@gmail.com <br>
     Whatsapp  : +974 71203694 <br>
-    Mobile    : +974 71203694 <br>
+    Mobile    : +249 114648721 <br>
     Telegram  : @abdalloz <br>
-    Twitter   : @3bdalloz <br>
+    x         : @3bdalloz <br>
+    instgram  : @3bdalloz <br>
 </details>
