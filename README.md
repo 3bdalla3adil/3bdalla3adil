@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/3bdalloz" target="blank"><img src="https://img.shields.io/twitter/follow/3bdalloz?logo=twitter&style=for-the-badge" alt="3bdalloz" /></a> </p>
 
-- 🔭 I'm currently working on **Odoo Development**
+-  I'm currently working on **Odoo Development**
 
-- 🌱 I'm currently learning **Cybersecurity **
+-  I'm currently learning **Cybersecurity **
 
-- 👯 I'm looking to collaborate on **ERPnext oDoo**
+-  I'm looking to collaborate on **oDoo**
 
 - 💬 Ask me about **Odoo, Python, API integration **
 
