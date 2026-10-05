@@ -30,7 +30,7 @@
 <a href="https://fb.com/abdalla.a.hassan.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdalla.a.hassan.5" height="30" width="40" /></a>
 <a href="https://instagram.com/3bdalloz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3bdalloz" height="30" width="40" /></a>
 <a href="https://twitter.com/3bdalloz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3bdalloz" height="30" width="40" /></a>
-<a href="https://youtube.com/AbdullaBashir-u4y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AbdullaBashir-u4y" height="30" width="40" /></a>
+<a href="[https://youtube.com/AbdullaBashir-u4y](https://m.youtube.com/channel/UCz58O06t6mBv_TKbVuZw3Ug)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AbdullaBashir-u4y" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
