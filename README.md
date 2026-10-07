@@ -22,6 +22,17 @@
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1BIh25OGs3Y75UxH9BNPcF4dI_l9KR-px/view?usp=drivesdk](https://drive.google.com/file/d/1BIh25OGs3Y75UxH9BNPcF4dI_l9KR-px/view?usp=drivesdk)**
 
+## 🚀 Featured Recent Projects
+
+- **MediBook** — Arabic-first Flutter healthcare foundation for multi-clinic appointments and telehealth, with Clean Architecture, BLoC/Cubit, offline appointment caching/outbox sync, secure sessions, RTL localization, tests, and Android/iOS CI.  
+  → https://github.com/3bdalla3adil/medibook
+- **Salawat — Offline Islamic Companion** — Modernized Android app with offline prayer calculations, Quran (114 surahs / 6,236 ayahs), Qibla compass, Hijri/Gregorian calendars, local Athan audio, reboot-safe prayer alarms, and GitHub Actions CI.  
+  → https://github.com/3bdalla3adil/AndroidPrayerTimesApp
+- **Ekram Medical** — Odoo 18 Community medical-center system covering reception, appointments, consultations, laboratory workflows, security, reports, OWL dashboard/RPC work, and automated tests.  
+  → https://github.com/3bdalla3adil/ekram_medical
+- **ClinicFlow** — Flutter/Firebase clinic-management foundation with doctor/service discovery, appointment booking, repository abstractions, Firestore rules/indexes, and testable demo mode.  
+  → https://github.com/3bdalla3adil/clinicflow
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/3bdalla3adil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="3bdalla3adil" height="30" width="40" /></a>
