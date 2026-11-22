@@ -10,9 +10,9 @@
 
 -  I'm currently working on **Odoo Development**
 
--  I'm currently learning **Cybersecurity **
+-  I'm currently learning **Cybersecurity with eartechit Internship **
 
--  I'm looking to collaborate on **oDoo**
+-  #I'm looking to collaborate on **odoo**
 
 - 💬 Ask me about **Odoo, Python, API integration **
 
