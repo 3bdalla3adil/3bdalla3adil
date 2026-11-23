@@ -1,123 +1,131 @@
-# Hi 👋, I'm Abdulla Bashir 
+# Abdulla Bashir
 
-### Problem Solver
+**Odoo & Python Developer · ERP Solutions · Full-Stack Development**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3bdalla3adil&label=Profile views&color=0e75b6&style=flat" alt="3bdalla3adil" /> </p>
+I build business applications that solve operational problems — from Odoo ERP customizations and integrations to Python backends, web applications, and mobile products. I enjoy turning business requirements into reliable, maintainable software, improving workflows, and working closely with users and cross-functional teams.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3bdalla3adil" alt="3bdalla3adil" /></a> </p>
+[Portfolio](https://3bdalla3adil.github.io) · [LinkedIn](https://www.linkedin.com/in/abdulla-bashir-2a4311169) · [Email](mailto:3bdalla995@gmail.com) · [GitHub](https://github.com/3bdalla3adil)
 
-<p align="left"> <a href="https://twitter.com/3bdalloz" target="blank"><img src="https://img.shields.io/twitter/follow/3bdalloz?logo=twitter&style=for-the-badge" alt="3bdalloz" /></a> </p>
+---
 
--  I'm currently working on **Odoo Development**
+## What I Do
 
--  I'm currently learning **Cybersecurity with eartechit Internship **
+- **Odoo & ERP:** Custom modules, business workflows, reporting, integrations, access control, and upgrades across Odoo Community and Enterprise.
+- **Backend & APIs:** Python, Django, Flask, REST APIs, PostgreSQL, and system integrations.
+- **Frontend & Mobile:** OWL, JavaScript, TypeScript, React, Flutter, and responsive user experiences.
+- **DevOps & Delivery:** Linux, Docker, Nginx, CI/CD, GitHub Actions, testing, and deployment workflows.
+- **Applied AI:** RAG-based applications, LLM integrations, document processing, and AI-enabled user experiences.
 
--  #I'm looking to collaborate on **odoo**
+## Professional Experience
 
-- 💬 Ask me about **Odoo, Python, API integration **
+### Senior Odoo Developer — Salmawit International Pharmaceutical Company
+*November 2026 – Present*
 
-- 📫 How to reach me **3bdalla995@gmail.com**
+- Developing and improving Odoo ERP functionality for business operations.
+- Working on customer collection and sales commission reporting in **Odoo 13**, with a focus on accurate accounting-based calculations and clear financial reporting.
+- Reviewing accounting workflows and translating business rules into maintainable report logic.
 
-- 👨‍💻 All of my projects are available at **[https://3bdalla3adil.github.io](https://3bdalla3adil.github.io)**
+### IT Intern — EarTech
+*November 2026 – Present*
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1BIh25OGs3Y75UxH9BNPcF4dI_l9KR-px/view?usp=drivesdk](https://drive.google.com/file/d/1BIh25OGs3Y75UxH9BNPcF4dI_l9KR-px/view?usp=drivesdk)**
+- Contributing to **CourseHub**, a Django-based learning management system.
+- Working in a Scrum/Agile team using Git, pull requests, code reviews, and Azure DevOps.
+- Implementing and refining application views, role-based access, and student/instructor workflows.
 
-## 🚀 Featured Recent Projects
+### Odoo / Python Developer
+*Previous experience*
 
-- **MediBook** — Arabic-first Flutter healthcare foundation for multi-clinic appointments and telehealth, with Clean Architecture, BLoC/Cubit, offline appointment caching/outbox sync, secure sessions, RTL localization, tests, and Android/iOS CI.  
-  → https://github.com/3bdalla3adil/medibook
-- **Salawat — Offline Islamic Companion** — Modernized Android app with offline prayer calculations, Quran (114 surahs / 6,236 ayahs), Qibla compass, Hijri/Gregorian calendars, local Athan audio, reboot-safe prayer alarms, and GitHub Actions CI.  
-  → https://github.com/3bdalla3adil/AndroidPrayerTimesApp
-- **Ekram Medical** — Odoo 18 Community medical-center system covering reception, appointments, consultations, laboratory workflows, security, reports, OWL dashboard/RPC work, and automated tests.  
-  → https://github.com/3bdalla3adil/ekram_medical
-- **ClinicFlow** — Flutter/Firebase clinic-management foundation with doctor/service discovery, appointment booking, repository abstractions, Firestore rules/indexes, and testable demo mode.  
-  → https://github.com/3bdalla3adil/clinicflow
+- Delivered Odoo customizations, integrations, and business workflow automation.
+- Managed multiple Odoo instances using Docker and Linux-based infrastructure.
+- Built API integrations and operational tools to reduce manual work and improve data flow.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/3bdalla3adil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="3bdalla3adil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulla-bashir-2a4311169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulla-bashir-2a4311169" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19533843/abdulla-bashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19533843/abdulla-bashir" height="30" width="40" /></a>
-<a href="https://fb.com/abdalla.a.hassan.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdalla.a.hassan.5" height="30" width="40" /></a>
-<a href="https://instagram.com/3bdalloz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3bdalloz" height="30" width="40" /></a>
-<a href="https://twitter.com/3bdalloz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3bdalloz" height="30" width="40" /></a>
-<a href="[https://youtube.com/AbdullaBashir-u4y](https://m.youtube.com/channel/UCz58O06t6mBv_TKbVuZw3Ug)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AbdullaBashir-u4y" height="30" width="40" /></a>
+## Selected Projects
+
+### [MediBook](https://github.com/3bdalla3adil/medibook)
+**Flutter · Firebase · Clean Architecture**
+
+An Arabic-first healthcare application foundation for multi-clinic discovery and appointment management. Includes RTL localization, secure sessions, offline appointment caching and sync foundations, and automated build workflows.
+
+### [Salawat — Offline Islamic Companion](https://github.com/3bdalla3adil/AndroidPrayerTimesApp)
+**Android · Java / Flutter · Offline-first**
+
+An Islamic companion app focused on offline access to Quran content, prayer times, Qibla direction, Hijri calendar features, and local Athan notifications.
+
+### [Ekram Medical](https://github.com/3bdalla3adil/ekram_medical)
+**Odoo 18 Community · Python · OWL**
+
+A medical-center management solution covering reception, appointments, consultations, laboratory workflows, access controls, reporting, and custom interface enhancements.
+
+### [ClinicFlow](https://github.com/3bdalla3adil/clinicflow)
+**Flutter · Firebase**
+
+A clinic-management application foundation with doctor and service discovery, appointment booking, Firestore security rules, and a testable demo mode.
+
+### [CourseHub — EarTech Internship](https://github.com/enzupiechaczek/eartech-internship-2026)
+**Django · Python · PostgreSQL**
+
+Contributing to a learning management system, including role-aware workflows and course experiences as part of an Agile development team.
+
+## Engineering Highlights
+
+- Managed **nine Odoo instances on a single Linux server** using Docker and reverse-proxy infrastructure.
+- Integrated external attendance and worked-hours services with Odoo, reducing manual operational effort.
+- Developed API-driven business workflows, including leave-related integrations.
+- Built an AI-powered **RAG chatbot** using Azure services, a Next.js frontend, and backend integrations.
+- Developed an Arabic-focused cybersecurity keyword analysis tool, moving its implementation from Go to Python with Django REST APIs.
+- Worked across ERP, healthcare, mobile, and AI application domains — balancing business requirements with maintainable engineering.
+
+## Technology Stack
+
+**Languages**
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+**Frameworks & Platforms**
+
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Data, Infrastructure & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## Currently Learning
+
+- Cybersecurity fundamentals, secure application development, and practical defensive security.
+- Cloud-native deployment and automation practices.
+- Better architecture, testing, and maintainability for production applications.
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3bdalla3adil&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3bdalla3adil&layout=compact&hide_border=true" alt="Most used languages" height="165" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=3bdalla3adil&show_icons=true&locale=en&layout=compact" alt="3bdalla3adil" /></p>
+## Let's Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3bdalla3adil&show_icons=true&locale=en" alt="3bdalla3adil" /></p>
+I'm interested in Odoo and ERP engineering, Python/backend development, full-stack products, AI-enabled applications, and cybersecurity.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3bdalla3adil&" alt="3bdalla3adil" /></p>
+- **Email:** [3bdalla995@gmail.com](mailto:3bdalla995@gmail.com)
+- **LinkedIn:** [abdulla-bashir](https://www.linkedin.com/in/abdulla-bashir-2a4311169)
+- **Portfolio:** [3bdalla3adil.github.io](https://3bdalla3adil.github.io)
 
-
-
-
-
-<h1> Personal Info,,</h1>
-
-<h2>- Digital Transformation Professional in Implementing Odoo ERP System and Cutting Edge Technologies for DEVOPS Practices </h2>
-
-<h2>- Python Developer and Linux Addict -</h2>
-<h2>- python based Application Professional  -</h2><br>
-
-- <p>👋 Hi, I’m Abdulla Bashir.</p>
-<hr>
-- <p>A IT developer with more than 3 years of experience.</p>
-- <p>👀 I’m an electronics passionate, CLI environment, GNU/Linux and related stuff.</p>
-- <p>🌱 I have earned Many certificates from Coursera Such As <strong>Learning Linux for LFCA Certificate</strong>.
-</p>
-<!-- - <p>And i’m currently learning <strong>Cyber Security</strong>.</p>
-- <p>💞️ I know how to make progress,I'm working toward being a <strong>Cybersecurity Professional</strong>,
-</p> -->
-- <p>I Like to spend time gaining knowledge.</p>
-
-
-
-### :man_technologist:  Hey!  my Website (https://3bdalla3adil.github.io/)
-
-### :zap: Languages I have used
-![C/C++](https://img.shields.io/badge/-C/C++-000000?style=flat&logo=c)
-![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Shell](https://img.shields.io/badge/-Shell-000000?style=flat&logo=shell)
-
-
-
-### :rocket: Technologies I have worked with
-![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
-
-![github](https://img.shields.io/badge/-github-000000?style=flat&logo=github)
-
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
-![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
-![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-000000?style=flat&logo=obs-studio)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
-![OpenGL](https://img.shields.io/badge/-OpenGL-000000?style=flat&logo=opengl)
-
-
-### 💻 Open Source Work Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=3bdalla3adil&show_icons=true)
-
-### :eyes: Visitors Count
-![visitors-count](https://visitor-badge.laobi.icu/badge?page_id=3bdalla3adil.readme)
-  <details id="contact">
-    <summary>
-      <a href="#contact"> 📫 How to reach me :</a>
-    </summary>
-    Gmail     : 3bdalla995@gmail.com <br>
-    Whatsapp  : +974 71203694 <br>
-    Mobile    : +249 114648721 <br>
-    Telegram  : @abdalloz <br>
-    x         : @3bdalloz <br>
-    instgram  : @3bdalloz <br>
-</details>
